@@ -26,5 +26,3 @@ class Node:
                 queue.append(child) # appending children or nodes to the queue
 
         return array
-        
-        pass
